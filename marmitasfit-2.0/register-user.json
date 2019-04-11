@@ -1,0 +1,13 @@
+// client json representation as JSON
+{
+  "name" : "Mateus",
+  "email": "mateus@braga.com",
+  "pass" : "1234567",
+  "adress": {
+
+      "cep" : "999999-999",
+      "city" : "Gama",
+      "number": 3,
+
+  }
+}
